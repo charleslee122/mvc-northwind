@@ -1,0 +1,8 @@
+H:\Github\mvc-northwind\ASP.NET MVC Applicat1\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+H:\Github\mvc-northwind\ASP.NET MVC Applicat1\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+H:\Github\mvc-northwind\ASP.NET MVC Applicat1\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+H:\Github\mvc-northwind\ASP.NET MVC Applicat1\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+H:\Github\mvc-northwind\ASP.NET MVC Applicat1\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+H:\Github\mvc-northwind\ASP.NET MVC Applicat1\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+H:\Github\mvc-northwind\ASP.NET MVC Applicat1\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+H:\Github\mvc-northwind\ASP.NET MVC Applicat1\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
