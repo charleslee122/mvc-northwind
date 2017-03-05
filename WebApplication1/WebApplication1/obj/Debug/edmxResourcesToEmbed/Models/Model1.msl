@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="northwindModel1StoreContainer" CdmEntityContainer="northwindEntities1">
+    <EntitySetMapping Name="accounts">
+      <EntityTypeMapping TypeName="northwindModel1.account">
+        <MappingFragment StoreEntitySet="account">
+          <ScalarProperty Name="accountId" ColumnName="accountId" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="createtime" ColumnName="createtime" />
+          <ScalarProperty Name="lastlogintime" ColumnName="lastlogintime" />
+          <ScalarProperty Name="islogon" ColumnName="islogon" />
+          <ScalarProperty Name="empolyeeid" ColumnName="empolyeeid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
